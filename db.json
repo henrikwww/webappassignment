@@ -1,270 +1,39 @@
-{
-  "_total": 15,
-  "_links": {
-    "self": "https://api.twitch.tv/kraken/channels/raphaelgoulart/follows?channel=raphaelgoulart&direction=desc&limit=25",
-    "next": "https://api.twitch.tv/kraken/channels/raphaelgoulart/follows?channel=raphaelgoulart&cursor=1461209634476062000&direction=desc&limit=25"
+[
+  {
+    "id": 1,
+    "name": "honeycore",
+    "age": 25,
+	"soundcloud": "https://soundcloud.com/honeycoreinfant/"
   },
-  "_cursor": "1461209634476062000",
-  "follows": [
+  {
+    "id": 2,
+    "name": "raphaelgoulart",
+    "age": 22,
+	"soundcloud": "https://soundcloud.com/raphaelgoulart/"
+  },
+  {
+    "id": 3,
+    "name": "xemogasa",
+    "age": 17,
+	"soundcloud": "https://soundcloud.com/xemogasa"
+  },
     {
-      "created_at": "2018-09-08T14:43:53Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/burrismosevero/follows/channels/raphaelgoulart"
-      },
-      "notifications": true,
-      "user": {
-        "display_name": "burrismosevero",
-        "_id": 76412477,
-        "name": "burrismosevero",
-        "type": "user",
-        "bio": "doença lixo chorume coisa ruim",
-        "created_at": "2014-12-02T17:25:37Z",
-        "updated_at": "2018-09-08T15:09:08Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9b0ba51fbdd84dd-profile_image-300x300.jpeg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/burrismosevero"
-        }
-      }
-    },
+    "id": 4,
+    "name": "kr1sh",
+    "age": 29,
+	"soundcloud": "https://soundcloud.com/kr1shofficial"
+  },
     {
-      "created_at": "2018-09-08T14:36:40Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/impossiblecarl/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "ImpossibleCarl",
-        "_id": 56945738,
-        "name": "impossiblecarl",
-        "type": "user",
-        "bio": "Editor tentando virar sound designer. Faço alguns vídeos no YouTube mas em raras ocasiões faço lives aqui também. Meu canal no YouTube: https://www.youtube.com/ImpossibleCarl69/",
-        "created_at": "2014-02-16T21:35:44Z",
-        "updated_at": "2018-10-21T05:21:30Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a3c2670-7498-4678-a6c4-e57617a45cc8-profile_image-300x300.png",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/impossiblecarl"
-        }
-      }
-    },
+    "id": 5,
+    "name": "kyrandian",
+    "age": 29,
+	"soundcloud": "https://soundcloud.com/kyrandian"
+	
+  },
     {
-      "created_at": "2018-09-08T14:35:58Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/pequenageu/follows/channels/raphaelgoulart"
-      },
-      "notifications": true,
-      "user": {
-        "display_name": "pequenageu",
-        "_id": 125857733,
-        "name": "pequenageu",
-        "type": "user",
-        "bio": "Sou louca",
-        "created_at": "2016-06-04T00:26:43Z",
-        "updated_at": "2018-10-20T22:27:41Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/67c10cb3-b5a9-45bb-b9e5-f627e1962b48-profile_image-300x300.jpg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/pequenageu"
-        }
-      }
-    },
-    {
-      "created_at": "2017-09-25T01:07:13Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/augustodoidinn/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "AugustoDoidinn",
-        "_id": 49777545,
-        "name": "augustodoidinn",
-        "type": "user",
-        "bio": "Just A Rock Band Streamer And Custom Creator!http://customscreators.com/index.php?/topic/16484-augustodoidins-customs-higher-by-a7x-you-can-request-any-song-from-a7x/",
-        "created_at": "2013-10-04T20:34:21Z",
-        "updated_at": "2018-10-16T00:25:20Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/19f9a83bbfd45d39-profile_image-300x300.png",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/augustodoidinn"
-        }
-      }
-    },
-    {
-      "created_at": "2017-03-10T23:28:00Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/peixe_erman/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "peixe_erman",
-        "_id": 150031686,
-        "name": "peixe_erman",
-        "type": "user",
-        "bio": null,
-        "created_at": "2017-03-10T21:34:18Z",
-        "updated_at": "2018-10-12T20:03:33Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/peixe_erman-profile_image-c449e2fd69089eac-300x300.jpeg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/peixe_erman"
-        }
-      }
-    },
-    {
-      "created_at": "2017-03-08T20:13:59Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/lionsmat/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "Lionsmat",
-        "_id": 66223691,
-        "name": "lionsmat",
-        "type": "user",
-        "bio": "jjkta",
-        "created_at": "2014-07-13T01:17:02Z",
-        "updated_at": "2018-07-24T12:45:27Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/lionsmat-profile_image-a7c0252a69a18783-300x300.jpeg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/lionsmat"
-        }
-      }
-    },
-    {
-      "created_at": "2017-03-06T01:34:12Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/ppetrechen/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "ppetrechen",
-        "_id": 57299045,
-        "name": "ppetrechen",
-        "type": "user",
-        "bio": "I play GH and other games.",
-        "created_at": "2014-02-20T21:49:28Z",
-        "updated_at": "2018-09-30T03:32:47Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ppetrechen-profile_image-14f8db4d67643b92-300x300.jpeg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/ppetrechen"
-        }
-      }
-    },
-    {
-      "created_at": "2017-03-05T20:35:24Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/supertrol21/follows/channels/raphaelgoulart"
-      },
-      "notifications": true,
-      "user": {
-        "display_name": "supertrol21",
-        "_id": 149547617,
-        "name": "supertrol21",
-        "type": "user",
-        "bio": null,
-        "created_at": "2017-03-05T20:34:31Z",
-        "updated_at": "2018-09-02T00:15:52Z",
-        "logo": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-300x300.jpg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/supertrol21"
-        }
-      }
-    },
-    {
-      "created_at": "2016-07-04T01:58:26Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/faiorb/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "Faiorb",
-        "_id": 39367369,
-        "name": "faiorb",
-        "type": "user",
-        "bio": "Hey!",
-        "created_at": "2013-01-15T20:11:56Z",
-        "updated_at": "2018-10-20T02:48:31Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/faiorb-profile_image-09487d79a7516900-300x300.png",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/faiorb"
-        }
-      }
-    },
-    {
-      "created_at": "2016-04-22T20:47:23Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/ramons2raphael/follows/channels/raphaelgoulart"
-      },
-      "notifications": true,
-      "user": {
-        "display_name": "ramons2raphael",
-        "_id": 122430353,
-        "name": "ramons2raphael",
-        "type": "user",
-        "bio": null,
-        "created_at": "2016-04-22T19:04:11Z",
-        "updated_at": "2016-08-11T14:27:56Z",
-        "logo": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-300x300.jpg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/ramons2raphael"
-        }
-      }
-    },
-    {
-      "created_at": "2016-04-22T19:28:21Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/thegregin/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "thegregin",
-        "_id": 52789276,
-        "name": "thegregin",
-        "type": "user",
-        "bio": null,
-        "created_at": "2013-12-07T12:55:54Z",
-        "updated_at": "2018-05-09T23:00:54Z",
-        "logo": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-300x300.jpg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/thegregin"
-        }
-      }
-    },
-    {
-      "created_at": "2016-04-22T00:21:25Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/numbbymks/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "numbbymks",
-        "_id": 66145407,
-        "name": "numbbymks",
-        "type": "user",
-        "bio": "Hello.",
-        "created_at": "2014-07-12T02:29:38Z",
-        "updated_at": "2018-09-16T17:29:51Z",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/numbbymks-profile_image-0d8d8dae70100ad3-300x300.png",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/numbbymks"
-        }
-      }
-    },
-    {
-      "created_at": "2016-04-21T23:58:06Z",
-      "_links": {
-        "self": "https://api.twitch.tv/kraken/users/hilaldorski/follows/channels/raphaelgoulart"
-      },
-      "notifications": false,
-      "user": {
-        "display_name": "Hilaldorski",
-        "_id": 62546748,
-        "name": "hilaldorski",
-        "type": "user",
-        "bio": null,
-        "created_at": "2014-05-13T01:08:19Z",
-        "updated_at": "2018-02-24T01:51:52Z",
-        "logo": "https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-300x300.jpg",
-        "_links": {
-          "self": "https://api.twitch.tv/kraken/users/hilaldorski"
-        }
-      }
-    }
-  ]
-}
+    "id": 6,
+    "name": "saul",
+    "age": 26,
+	"soundcloud": "https://soundcloud.com/saulscrib"
+  }
+]
