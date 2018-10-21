@@ -1,5 +1,5 @@
 {
-  "_total": 13,
+  "_total": 15,
   "_links": {
     "self": "https://api.twitch.tv/kraken/channels/raphaelgoulart/follows?channel=raphaelgoulart&direction=desc&limit=25",
     "next": "https://api.twitch.tv/kraken/channels/raphaelgoulart/follows?channel=raphaelgoulart&cursor=1461209634476062000&direction=desc&limit=25"
