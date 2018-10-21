@@ -3,24 +3,20 @@
     "id": 1,
     "name": "honeycore",
     "age": 25,
-    "soundcloud": "https://soundcloud.com/honeycoreinfant/"
   },
   {
     "id": 2,
     "name": "raphaelgoulart",
-    "age": 22,
-    "soundcloud": "https://soundcloud.com/raphaelgoulart/"
+    "age": 22
   },
   {
     "id": 3,
     "name": "xemogasa",
-    "age": 17,
-  "soundcloud": "https://soundcloud.com/xemogasa"
+    "age": 17
   },
     {
     "id": 4,
     "name": "kr1sh",
-    "age": 29,
-    "soundcloud": "https://soundcloud.com/kr1shofficial"
-  },
+    "age": 29
+  }
 ]
